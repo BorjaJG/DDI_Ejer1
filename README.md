@@ -23,7 +23,7 @@ Este proyecto contiene un total de **13 ejercicios** que demuestran el uso de `L
 ### 3. Ejercicio 3: Layout con Peso
 
 **Diseño:**
-![Ejercicio 3 - Layout con Peso](C:\Users\Borja\Desktop\DDI\PRACTICA\Ejercicio1\20240920_EjerciciosLinearLayout\Linear_Layout_3.jpg)
+<img alt="Ejercicio 3 - Layout con Peso" src="C:\Users\Borja\Desktop\DDI\PRACTICA\Ejercicio1\20240920_EjerciciosLinearLayout\Linear_Layout_3.jpg"/>
 
 **Resultado:**
 ![Resultado Ejercicio 3](ruta/a/tu/resultado3.png)
